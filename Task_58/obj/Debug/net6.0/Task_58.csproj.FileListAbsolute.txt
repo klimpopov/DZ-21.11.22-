@@ -1,0 +1,15 @@
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\bin\Debug\net6.0\Task_58.exe
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\bin\Debug\net6.0\Task_58.deps.json
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\bin\Debug\net6.0\Task_58.runtimeconfig.json
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\bin\Debug\net6.0\Task_58.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\bin\Debug\net6.0\Task_58.pdb
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.csproj.AssemblyReference.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfoInputs.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.AssemblyInfo.cs
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.csproj.CoreCompileInputs.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\refint\Task_58.dll
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.pdb
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\Task_58.genruntimeconfig.cache
+D:\Хлам\Работа - модели\Geek breins\11.2022\ДЗ (21.11.22)\Task_58\obj\Debug\net6.0\ref\Task_58.dll
